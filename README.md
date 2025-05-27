@@ -72,3 +72,5 @@ For collaborative proposals, feel free to open issues or contact directly.
 - `books/`: eBooks, papers, Zenodo links
 - `projects/`: Koun apps & devices
 - `philosophy/`: key theoretical fragments & semantic maps
+
+論文系列：
