@@ -1,9 +1,7 @@
 # 🌌 Shu Koun — Semantic Architect of Koun-U
 
-> Welcome to the official semantic node of **Shu Koun**, creator of the [Koun-U Theory](#) — a paradigm-shifting framework that unifies logic, intelligence, consciousness, and language through semantic tension fields and non-collapse convergence.
+Welcome to the official semantic node of **Shu Koun**, creator of the [Koun-U Theory](#) — a paradigm-shifting framework that unifies logic, intelligence, consciousness, and language through semantic tension fields and non-collapse convergence.
 
-歡迎來到 **空遠（Shu Koun）** 的 GitHub 主頁，這裡是語義理論宇宙的原點節點。  
-Koun-U 是一套統合 **智能、語言、數學、物理、意識與政治哲學** 的新型語義架構。
 
 ---
 
@@ -55,7 +53,7 @@ Koun-U 理論主張：
 If you believe semantic intelligence is the next revolution, support me:
 
 - ☕ [paypal.me/ShuKoun](https://www.paypal.me/ShuKoun)
-- 💬 [@ShuKoun on Twitter / X](#)
+// - 💬 [@ShuKoun on Twitter / X](#)
 - 📬 Email: [you@example.com]
 
 ---
@@ -73,4 +71,16 @@ For collaborative proposals, feel free to open issues or contact directly.
 - `projects/`: Koun apps & devices
 - `philosophy/`: key theoretical fragments & semantic maps
 
-論文系列：
+Papers:
+
+01 
+KounGraph: A Semantic Node-Based Operating System and Its Cognitive Structure Model
+
+
+https://zenodo.org/records/15518660
+
+02
+Reimagining Applications: How Semantic Operating Systems Redefine Software Foundations
+
+
+https://zenodo.org/records/15244383
