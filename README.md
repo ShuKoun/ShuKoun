@@ -7,6 +7,7 @@ Welcome to the official semantic node of **Shu Koun**, creator of the [Koun-U Th
 
 ## 🔹 Who I Am
 
+- Shu Koun (朱庫文), living in Japan
 - 🧠 **Parent of the Koun-U Theory**
 - 📘 Writer of semantic philosophy books
 - 🛠️ Semantic system architect (Koun Note, Koun Lock)
